@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        
+    {
+        "name": ".NET Core Launch (console)",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/AdhService.Startup/bin/Debug/net5.0/ADHService.Startup.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}",
+        "stopAtEntry": false,
+        "console": "internalConsole"
+    }
+    ]
+}
